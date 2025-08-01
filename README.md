@@ -58,16 +58,9 @@ The dataset is fictional and used for practice purposes, simulating a real-world
 
 ---
 
-## 📌 Next Steps (Future Scope)
-- Apply Logistic Regression or Decision Trees for churn prediction.
-- Use SMOTE or similar methods for class imbalance.
-- Build a dashboard using Power BI or Streamlit for stakeholder reporting.
-
----
-
 ## 📫 Contact
 **Mayur Dhepekar**  
-📧 mayurdehpekar00@gmail.com  
+📧 mayurdhepekar@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/mayurdhepekar/)  
 🌐 [Portfolio](https://mavenanalytics.io/profile/78b16390-c051-70d2-5fed-5d6c90192ca3)
 
